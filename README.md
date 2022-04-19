@@ -2,7 +2,7 @@
 
 # Contexto
 Este projeto trata-se de um App para pesquisa de receitas, tanto de comidas quanto de bebidas.  
-Devs do time: [Gabriel Benedicto](https://github.com/BicaBenedicto), [Gustavo Gracio](https://github.com/GustavoGracioM), [Danilo Calado](https://github.com/DaniloCalado) e [Henrique Martins](https://github.com/Henrique-M01).
+Devs do time: [Gabriel Benedicto](https://github.com/BicaBenedicto), [Gustavo Gracio](https://github.com/GustavoGracioM), [Danilo Calado](https://github.com/DaniloCalado) e [Henrique Martins](https://github.com/Henrique-M01).  
 Com funcionalidades como filtrar por ingredientes, area, salvar receitas feitas, favoritar receitas dentre outras.
 > Acesse o projeto: https://drinks-and-foods.surge.sh/
 
